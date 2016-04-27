@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./degrammaticisgr00wentgoog_0188.png"; bbox 0 0 1098 1548; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 436 403 808 440">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 436 403 808 440">
+     <span class='ocr_line' id='line_1_1' title="bbox 436 403 808 418; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 436 403 516 418; x_wconf 79' lang='lat' dir='ltr'>BEFORE</span> <span class='ocrx_word' id='word_1_2' title='bbox 526 403 569 418; x_wconf 77' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_3' title='bbox 580 403 631 418; x_wconf 75' lang='lat' dir='ltr'>LAST</span> <span class='ocrx_word' id='word_1_4' title='bbox 642 403 698 418; x_wconf 78' lang='lat' dir='ltr'>DATE</span> <span class='ocrx_word' id='word_1_5' title='bbox 710 403 808 418; x_wconf 72' lang='lat' dir='ltr'>STAMPED</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 436 424 808 440; baseline -0.003 -1"><span class='ocrx_word' id='word_1_6' title='bbox 436 424 506 440; x_wconf 76' lang='lat' dir='ltr'><strong>BELQW</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 540 424 572 439; x_wconf 85' lang='grc' dir='ltr'>ΟΝ</span> <span class='ocrx_word' id='word_1_8' title='bbox 579 424 662 439; x_wconf 73' lang='lat' dir='ltr'>RECEIPT</span> <span class='ocrx_word' id='word_1_9' title='bbox 672 424 699 439; x_wconf 70' lang='grc' dir='ltr'>ΟΡ</span> <span class='ocrx_word' id='word_1_10' title='bbox 709 424 808 439; x_wconf 81' lang='lat' dir='ltr'><strong>OVERDUE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 574 445 808 460">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 574 445 808 460">
+     <span class='ocr_line' id='line_1_3' title="bbox 574 445 808 460; baseline -0.004 0"><span class='ocrx_word' id='word_1_11' title='bbox 574 445 596 460; x_wconf 81' lang='lat' dir='ltr'>Es</span> <span class='ocrx_word' id='word_1_12' title='bbox 610 445 656 460; x_wconf 90' lang='lat' dir='ltr'>NOT</span> <span class='ocrx_word' id='word_1_13' title='bbox 668 445 754 460; x_wconf 76' lang='lat' dir='ltr'>EXEMPT</span> <span class='ocrx_word' id='word_1_14' title='bbox 766 445 808 460; x_wconf 76' lang='lat' dir='ltr'>THE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1098 1548">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1098 1548">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1098 1548; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1098 1548; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
